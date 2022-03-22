@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas Miranda</h1>
-<h3 align="center">A passionate developer from Brazil.</h3>
+<h1 align="center">Oi 👋, Eu sou o Lucas Miranda/h1>
+<h3 align="center">Um desenvolvedor iniciante.</h3>
 
 - Sejam bem-vindos ao meu perfil, espero que gostem :)
 - Estou a procura de participar de uma equipe de desenvolvimento.
