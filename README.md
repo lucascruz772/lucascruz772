@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou o Lucas Miranda/h1>
+<h1 align="center">Oi 👋, Eu sou o Lucas Miranda</h1>
 <h3 align="center">Um desenvolvedor iniciante.</h3>
 
 - Sejam bem-vindos ao meu perfil, espero que gostem :)
