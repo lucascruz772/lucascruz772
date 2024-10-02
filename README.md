@@ -2,11 +2,10 @@
 <h3 align="center">Um Product Owner</h3>
 
 - Sejam bem-vindos ao meu perfil, espero que gostem :)
-- Estou a procura de participar de uma equipe de desenvolvimento.
 
 - 📫 Como me encontrar: **https://beacons.ai/lucascruz772**
 
-- 📄 Saiba das minhas experiências: [https://www.linkedin.com/in/lucas-miranda-0483b3163/](https://www.linkedin.com/in/lucasmiranda772)
+- 📄 Saiba das minhas experiências: [https://www.linkedin.com/in/lucasmiranda772/](https://www.linkedin.com/in/lucasmiranda772)
 
 <h3 align="left">Connect comigo:</h3>
 <p align="left">
