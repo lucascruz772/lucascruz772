@@ -14,4 +14,4 @@
 </p>
 
 <h3 align="left">Vai um cafézinho?☕:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/lucascruz772"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/lucascruz772" /></a></p><br><br>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lucascruz772" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
