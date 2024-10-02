@@ -14,4 +14,6 @@
 </p>
 
 <h3 align="left">Vai um cafézinho?☕:</h3>
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/lucascruz772)
+<a href="https://www.buymeacoffee.com/lucascruz772" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
+</a>
